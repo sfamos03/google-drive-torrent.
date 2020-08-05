@@ -13,7 +13,7 @@
     "async": "^2.1.5",
     "body-parser": "^1.16.1",
     "express": "^4.14.1",
-    "express-fileupload": "^0.3.0",
+    "express-fileupload": "^1.1.9",
     "express-force-https": "^1.0.0",
     "express-session": "^1.15.1",
     "express-zip": "^2.0.1",
