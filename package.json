@@ -18,7 +18,7 @@
     "express-session": "^1.15.1",
     "express-zip": "^2.0.1",
     "google-drive-io": "^1.0.0",
-    "googleapis": "^22.2.0",
+    "googleapis": "^59.0.0",
     "helmet": "^3.6.0",
     "http": "^0.0.0",
     "locks": "^0.2.2",
